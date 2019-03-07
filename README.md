@@ -1,5 +1,5 @@
 # Datasets-For-ML
-These a sample for E-commerce browsing history.
+These is a sample for E-commerce browsing history.
 There are 16 columns representing naviagation of pages along with the metric of time spent on each page in seconds.
 
 SKU- Stock Keeping Unit.It is used to identify a particular item in a retail.
